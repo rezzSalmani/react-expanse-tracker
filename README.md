@@ -1,7 +1,7 @@
 # React Expanse Tracker
 
-<p>this is a simple react app which focus on `context` and `reducer` for state management.</p>
-<p>the app shows user's balance based on their expense and income.</p>
+this is a simple react app which focus on `context` and `reducer` for state management.
+the app shows user's balance based on their expense and income.
 
 ## Screenshot
 
