@@ -10,7 +10,8 @@ this is a simple react app which focus on `context` and `reducer` for state mana
 
 ## Installation
 
-Install my-project with npm
+Install this project with npm
+this project created whit Vite
 
 ```npm
   npm Install
